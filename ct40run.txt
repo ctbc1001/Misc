@@ -1,0 +1,1 @@
+./komodod -ac_name=CT40 -ac_supply=0 -ac_cc=0 -ac_blocktime=40 -ac_reward=40 000 000 -ac_halving=10000 -ac_decay=25000000
