@@ -1,0 +1,3 @@
+RTBX:
+
+-ac_name=RTBX -ac_supply=0 -ac_blocktime=60 -ac_reward=5000000000 -ac_decay=82400000 -ac_halving=2880 -ac_perc=1000000 -ac_founders=1 -ac_adaptivepow=1 -ac_cbmaturity=10 -ac_pubkey= -ac_end=7200
