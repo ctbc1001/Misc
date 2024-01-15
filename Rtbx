@@ -1,4 +1,3 @@
 RTBX:
 
--ac_name=RTBX -ac_supply=0 -ac_blocktime=60 -ac_reward=5000000000 -ac_decay=82400000 -ac_halving=2880 -ac_perc=1000000 -ac_founders=1 -ac_adaptivepow=1 -ac_cbmaturity=10 -ac_pubkey=034f0367e0d83f497d82a12cac1b64dd21ae0d2379fdc94684c60f34316216965e",
- -ac_end=7200
+-ac_name=RTBX -ac_supply=0 -ac_blocktime=60 -ac_reward=5000000000 -ac_decay=82400000 -ac_halving=2880 -ac_perc=1000000 -ac_founders=1 -ac_adaptivepow=1 -ac_cbmaturity=10 -ac_pubkey=034f0367e0d83f497d82a12cac1b64dd21ae0d2379fdc94684c60f34316216965e -ac_end=7200
